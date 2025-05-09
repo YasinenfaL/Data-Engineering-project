@@ -1,4 +1,4 @@
-# Spark + Kafka + MinIO Akış Hattı
+# IOT Project System
 
 * This poc processes synthetic sensor data in real-time with Kafka ➜ Spark Structured Streaming ➜ MinIO chain and stores it in S3-compatible storage (MinIO). It runs on a single machine with Docker-Compose.
 
