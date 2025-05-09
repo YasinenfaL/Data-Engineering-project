@@ -1,0 +1,82 @@
+[
+    {
+        "deviceId": "device_1",
+        "temperature": 23.4,
+        "humidity": 54.7,
+        "timestamp": 1652890234.567,
+        "location": "server_room_1",
+        "status": "active"
+    },
+    {
+        "deviceId": "device_2",
+        "temperature": 24.8,
+        "humidity": 52.3,
+        "timestamp": 1652890235.123,
+        "location": "server_room_1",
+        "status": "active"
+    },
+    {
+        "deviceId": "device_3",
+        "temperature": 37.2,
+        "humidity": 68.3,
+        "timestamp": 1652890236.456,
+        "location": "server_room_2",
+        "status": "warning"
+    },
+    {
+        "deviceId": "device_4",
+        "temperature": 22.5,
+        "humidity": 55.1,
+        "timestamp": 1652890237.789,
+        "location": "server_room_2",
+        "status": "active"
+    },
+    {
+        "deviceId": "device_5",
+        "temperature": 39.8,
+        "humidity": 71.2,
+        "timestamp": 1652890238.234,
+        "location": "server_room_3",
+        "status": "critical"
+    },
+    {
+        "deviceId": "device_1",
+        "temperature": 25.1,
+        "humidity": 56.8,
+        "timestamp": 1652890239.567,
+        "location": "server_room_1",
+        "status": "active"
+    },
+    {
+        "deviceId": "device_3",
+        "temperature": 38.5,
+        "humidity": 69.7,
+        "timestamp": 1652890240.890,
+        "location": "server_room_2",
+        "status": "warning"
+    },
+    {
+        "deviceId": "device_2",
+        "temperature": 23.9,
+        "humidity": 53.4,
+        "timestamp": 1652890241.123,
+        "location": "server_room_1",
+        "status": "active"
+    },
+    {
+        "deviceId": "device_5",
+        "temperature": 41.2,
+        "humidity": 73.5,
+        "timestamp": 1652890242.456,
+        "location": "server_room_3",
+        "status": "critical"
+    },
+    {
+        "deviceId": "device_4",
+        "temperature": 24.3,
+        "humidity": 54.9,
+        "timestamp": 1652890243.789,
+        "location": "server_room_2",
+        "status": "active"
+    }
+] 
